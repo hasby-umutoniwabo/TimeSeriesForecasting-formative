@@ -1,0 +1,6 @@
+pandas
+numpy
+kagglehub
+psutil
+matplotlib
+statsmodels
