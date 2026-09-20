@@ -59,11 +59,11 @@ Across the three highest traffic areas tested (GridID 5161, 5059, and 5259), XGB
 
 ## Report
 
-The complete written report, covering related work, memory management, exploratory analysis, methodology, results, failure analysis, and conclusions, is in `report/Mobile_Traffic_Forecasting_Report.docx`.
+The complete written report, covering related work, memory management, exploratory analysis, methodology, results, failure analysis, and conclusions, is in [this report](https://docs.google.com/document/d/1Wxr0b_060VlhjQM1rGFaZVGxwzlRteTDiFfayU4TvPs/edit?usp=sharing).
 
 ## Video presentation
 
-[Add your video link here once uploaded]
+[Watch the video presentation](https://www.youtube.com/watch?v=-dxEa5lG1-k)
 
 ## Author
 
